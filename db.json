@@ -1,0 +1,52 @@
+[
+  {
+        author: "John Doe";
+        vid: 1;
+        thumbnail: "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png";
+        title: "Trial Image;
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ornare finibus porttitor. Integer aliquet nunc vel leo aliquet, sit amet.";
+        upvotes: 27;
+        downvotes: 2;
+        shares: 142;
+        views: 2234;
+        destinations: {
+            ['dest_name': 'New Delhi'];
+        }
+        tags: {
+            ['tag_name': "fun"]; 
+        };
+        upvoted: true;
+        downvoted: false;
+        saved: true;
+        is_approved: true;
+        pending: false;
+        requested_by_author: true;
+        transcoded: true;  
+   },
+    
+   {
+        author: "John Doe";
+        vid: 2;
+        thumbnail: "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png";
+        title: "Trial Image;
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ornare finibus porttitor. Integer aliquet nunc vel leo aliquet, sit amet.";
+        upvotes: 27;
+        downvotes: 2;
+        shares: 142;
+        views: 2234;
+        destinations: {
+            ['dest_name': 'New Delhi'];
+        }
+        tags: {
+            ['tag_name': "fun"]; 
+        };
+        upvoted: true;
+        downvoted: false;
+        saved: true;
+        is_approved: false;
+        pending: false;
+        requested_by_author: true;
+        transcoded: true;  
+   },
+
+]
