@@ -11,7 +11,7 @@
         views: 2234;
         destinations: {
             ['dest_name': 'New Delhi'];
-        }
+        };
         tags: {
             ['tag_name': "fun"]; 
         };
@@ -36,7 +36,7 @@
         views: 2234;
         destinations: {
             ['dest_name': 'New Delhi'];
-        }
+        };
         tags: {
             ['tag_name': "fun"]; 
         };
